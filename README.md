@@ -8,6 +8,10 @@ A simple task Management Application built with [Vue.js 3](https://vuejs.org/) a
 
 Add, edit, and delete tasks and mark tasks as complete and store task data in local storage. Application is 100% responsive
 
+## Demo
+
+Check out a live demo of the app in action here: https://vuetaskmanagementapplication.netlify.app/
+
 ## Clone project
 
 ```sh
