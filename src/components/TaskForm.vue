@@ -2,7 +2,7 @@
   <div class="fixed bottom-20 left-6 right-6 z-10">
     <Transition>
       <div v-show="isTaskEmpty" class="font-semibold italic text-red">
-        <p>Task cannot be emptys</p>
+        <p>Task cannot be empty</p>
       </div>
     </Transition>
 
