@@ -1,14 +1,12 @@
-## Vue3 Task Manager
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb7d94e1-889d-46ca-936a-436c80c4b61c/deploy-status)](https://app.netlify.com/sites/vuetaskmanagementapplication/deploys)
 
-A simple task management application built with Vue.js 3 and Pinia for state management.
+## Vue 3 Task Management Application
+
+A simple task Management Application built with [Vue.js 3](https://vuejs.org/) and [Pinia](https://pinia.vuejs.org/) for state management.
 
 ## Key Features:
 
-Add, edit, and delete tasks and mark tasks as complete and store task data in local storage. Application 100% responsive
-
-## Demo:
-
-Check out a live demo of the component in action here: https://vuetaskmanagementapplication.netlify.app/
+Add, edit, and delete tasks and mark tasks as complete and store task data in local storage. Application is 100% responsive
 
 ## Clone project
 
